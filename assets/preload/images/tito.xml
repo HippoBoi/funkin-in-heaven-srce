@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tito.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump0000" x="0" y="0" width="1282" height="723"/>
+	<SubTexture name="bump0001" x="0" y="723" width="1282" height="723"/>
+	<SubTexture name="bump0002" x="0" y="1446" width="1282" height="723"/>
+	<SubTexture name="bump0003" x="0" y="1446" width="1282" height="723"/>
+</TextureAtlas>

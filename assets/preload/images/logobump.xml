@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logobump.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump0000" x="0" y="0" width="763" height="704"/>
+	<SubTexture name="bump0001" x="763" y="0" width="737" height="657" frameX="-13" frameY="-23" frameWidth="763" frameHeight="704"/>
+	<SubTexture name="bump0002" x="0" y="704" width="709" height="633" frameX="-27" frameY="-35" frameWidth="763" frameHeight="704"/>
+	<SubTexture name="bump0003" x="709" y="704" width="689" height="607" frameX="-37" frameY="-48" frameWidth="763" frameHeight="704"/>
+	<SubTexture name="bump0004" x="0" y="1337" width="654" height="583" frameX="-55" frameY="-60" frameWidth="763" frameHeight="704"/>
+	<SubTexture name="bump0005" x="654" y="1337" width="619" height="539" frameX="-72" frameY="-82" frameWidth="763" frameHeight="704"/>
+	<SubTexture name="bump0006" x="1273" y="1337" width="580" height="517" frameX="-92" frameY="-93" frameWidth="763" frameHeight="704"/>
+</TextureAtlas>

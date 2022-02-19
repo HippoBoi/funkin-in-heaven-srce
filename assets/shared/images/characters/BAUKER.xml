@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BAUKER.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bauker idle0000" x="0" y="0" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0001" x="0" y="0" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0002" x="614" y="0" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0003" x="614" y="0" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0004" x="1228" y="0" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0005" x="1228" y="0" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0006" x="0" y="542" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0007" x="0" y="542" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0008" x="614" y="542" width="614" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0009" x="1228" y="542" width="624" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0010" x="0" y="1084" width="632" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0011" x="632" y="1084" width="634" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0012" x="1266" y="1084" width="635" height="542"/>
+	<SubTexture name="bauker idle0013" x="1266" y="1084" width="635" height="542"/>
+	<SubTexture name="bauker idle0014" x="0" y="1626" width="632" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker idle0015" x="632" y="1626" width="618" height="542" frameX="0" frameY="0" frameWidth="635" frameHeight="542"/>
+	<SubTexture name="bauker left0000" x="1250" y="1626" width="614" height="542"/>
+	<SubTexture name="bauker left0001" x="0" y="2168" width="614" height="542"/>
+	<SubTexture name="bauker left0002" x="614" y="2168" width="614" height="542"/>
+	<SubTexture name="bauker left0003" x="1228" y="2168" width="614" height="542"/>
+	<SubTexture name="bauker left0004" x="0" y="2710" width="614" height="542"/>
+	<SubTexture name="bauker right0000" x="614" y="2710" width="636" height="542"/>
+	<SubTexture name="bauker right0001" x="1250" y="2710" width="634" height="542" frameX="0" frameY="0" frameWidth="636" frameHeight="542"/>
+	<SubTexture name="bauker right0002" x="0" y="3252" width="632" height="542" frameX="0" frameY="0" frameWidth="636" frameHeight="542"/>
+	<SubTexture name="bauker right0003" x="632" y="3252" width="629" height="542" frameX="0" frameY="0" frameWidth="636" frameHeight="542"/>
+	<SubTexture name="bauker right0004" x="1261" y="3252" width="629" height="542" frameX="0" frameY="0" frameWidth="636" frameHeight="542"/>
+</TextureAtlas>

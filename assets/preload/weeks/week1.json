@@ -1,0 +1,69 @@
+{
+	"songs": [
+	    [
+			"gachapon",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"clean",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"rockstar",
+			"dad",
+			[
+				0,
+				220,
+				140
+			]
+		],
+		[
+			"rhay",
+			"dad",
+			[
+				0,
+				220,
+				140
+			]
+		],
+		[
+			"Trainer",
+			"dad",
+			[ 255, 122, 83 ]
+		],
+		[
+			"Riodasu",
+			"dad",
+			[ 255, 122, 83 ]
+		]
+		
+	],
+	"hideFreeplay": false,
+	"weekBackground": "heaven1",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "me and the bois",
+	"weekName": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

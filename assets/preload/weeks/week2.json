@@ -1,0 +1,32 @@
+{
+	"songs": [
+		["Bauker", "dad", [122, 150, 90]],
+		["Night", "dad", [122, 150, 90]],
+		[
+			"eli",
+			"dad",
+			[
+				106,
+				133,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "heaven2",
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"storyName": "lucho brothers",
+	"weekName": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": false
+}

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hippo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hippo down0000" x="0" y="0" width="389" height="118" frameX="-2" frameY="-37" frameWidth="404" frameHeight="205"/>
+	<SubTexture name="hippo down0001" x="389" y="0" width="389" height="205" frameX="-2" frameY="0" frameWidth="404" frameHeight="205"/>
+	<SubTexture name="hippo down0002" x="778" y="0" width="388" height="142" frameX="0" frameY="-55" frameWidth="404" frameHeight="205"/>
+	<SubTexture name="hippo down0003" x="1166" y="0" width="388" height="141" frameX="-16" frameY="-63" frameWidth="404" frameHeight="205"/>
+	<SubTexture name="hippo idle0000" x="1554" y="0" width="416" height="361" frameX="0" frameY="-37" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0001" x="1554" y="0" width="416" height="361" frameX="0" frameY="-37" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0002" x="0" y="361" width="416" height="232" frameX="0" frameY="-160" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0003" x="416" y="361" width="416" height="338" frameX="0" frameY="-64" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0004" x="832" y="361" width="416" height="408"/>
+	<SubTexture name="hippo idle0005" x="1248" y="361" width="416" height="350" frameX="0" frameY="-54" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0006" x="1248" y="361" width="416" height="350" frameX="0" frameY="-54" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0007" x="1248" y="361" width="416" height="350" frameX="0" frameY="-54" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0008" x="1248" y="361" width="416" height="350" frameX="0" frameY="-54" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo idle0009" x="1248" y="361" width="416" height="350" frameX="0" frameY="-54" frameWidth="416" frameHeight="408"/>
+	<SubTexture name="hippo left0000" x="1664" y="361" width="290" height="287" frameX="-21" frameY="-27" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0001" x="0" y="769" width="263" height="326" frameX="-12" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0002" x="263" y="769" width="263" height="326" frameX="-8" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0003" x="526" y="769" width="263" height="326" frameX="-4" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0004" x="789" y="769" width="263" height="326" frameX="0" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0005" x="789" y="769" width="263" height="326" frameX="0" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0006" x="789" y="769" width="263" height="326" frameX="0" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0007" x="789" y="769" width="263" height="326" frameX="0" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo left0008" x="789" y="769" width="263" height="326" frameX="0" frameY="0" frameWidth="311" frameHeight="326"/>
+	<SubTexture name="hippo right0000" x="1052" y="769" width="455" height="287"/>
+	<SubTexture name="hippo right0001" x="1507" y="769" width="409" height="287" frameX="-34" frameY="0" frameWidth="455" frameHeight="287"/>
+	<SubTexture name="hippo right0002" x="0" y="1095" width="373" height="287" frameX="-68" frameY="0" frameWidth="455" frameHeight="287"/>
+	<SubTexture name="hippo right0003" x="373" y="1095" width="393" height="287" frameX="-62" frameY="0" frameWidth="455" frameHeight="287"/>
+	<SubTexture name="hippo up0000" x="766" y="1095" width="389" height="165" frameX="-2" frameY="-68" frameWidth="404" frameHeight="285"/>
+	<SubTexture name="hippo up0001" x="1155" y="1095" width="389" height="285" frameX="-2" frameY="0" frameWidth="404" frameHeight="285"/>
+	<SubTexture name="hippo up0002" x="1544" y="1095" width="388" height="197" frameX="0" frameY="-11" frameWidth="404" frameHeight="285"/>
+	<SubTexture name="hippo up0003" x="0" y="1382" width="388" height="197" frameX="-16" frameY="0" frameWidth="404" frameHeight="285"/>
+</TextureAtlas>

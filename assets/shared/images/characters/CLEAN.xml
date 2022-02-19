@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CLEAN.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clean dance0000" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0001" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0002" x="0" y="0" width="546" height="705" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0003" x="546" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0004" x="1092" y="0" width="546" height="706"/>
+	<SubTexture name="clean dance0005" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0006" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0007" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0008" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0009" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0010" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0011" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0012" x="0" y="0" width="546" height="705" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0013" x="546" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0014" x="1092" y="0" width="546" height="706"/>
+	<SubTexture name="clean dance0015" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0016" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0017" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0018" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0019" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0020" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0021" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0022" x="0" y="0" width="546" height="705" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0023" x="546" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0024" x="1092" y="0" width="546" height="706"/>
+	<SubTexture name="clean dance0025" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0026" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0027" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0028" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0029" x="1638" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0030" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0031" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean dance0032" x="0" y="0" width="546" height="705" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0033" x="546" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0034" x="2184" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0035" x="2730" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0036" x="3276" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0037" x="0" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0038" x="546" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0039" x="1092" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0040" x="1638" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0041" x="2184" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0042" x="2730" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0043" x="3276" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0044" x="0" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0045" x="546" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0046" x="1092" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0047" x="1638" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0048" x="2184" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0049" x="2730" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0050" x="3276" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0051" x="0" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0052" x="546" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0053" x="1092" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0054" x="1638" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0055" x="2184" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0056" x="2730" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0057" x="3276" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0058" x="0" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0059" x="546" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0060" x="1092" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0061" x="1638" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0062" x="2184" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0063" x="2730" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0064" x="3276" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0065" x="0" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0066" x="546" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0067" x="1092" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0068" x="1638" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0069" x="2184" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0070" x="2730" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0071" x="3276" y="0" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0072" x="0" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0073" x="546" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0074" x="1092" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0075" x="1638" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0076" x="2184" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0077" x="2730" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0078" x="3276" y="706" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0079" x="0" y="1410" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0080" x="546" y="1410" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0081" x="1092" y="1410" width="546" height="705" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean dance0082" x="1638" y="1410" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="706"/>
+	<SubTexture name="clean down0000" x="2184" y="1410" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean down0001" x="2730" y="1410" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean down0002" x="3276" y="1410" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean down0003" x="0" y="2115" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean down0004" x="546" y="2115" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean down0005" x="1092" y="2115" width="546" height="705"/>
+	<SubTexture name="clean idle0000" x="1638" y="2115" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0001" x="1638" y="2115" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0002" x="2184" y="2115" width="546" height="705"/>
+	<SubTexture name="clean idle0003" x="2730" y="2115" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0004" x="3276" y="2115" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0005" x="0" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0006" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0007" x="546" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0008" x="1092" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0009" x="1638" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0010" x="2184" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0011" x="2730" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0012" x="3276" y="2820" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean idle0013" x="0" y="3524" width="546" height="704" frameX="0" frameY="0" frameWidth="546" frameHeight="705"/>
+	<SubTexture name="clean left0000" x="546" y="3524" width="546" height="704"/>
+	<SubTexture name="clean left0001" x="1092" y="3524" width="546" height="704"/>
+	<SubTexture name="clean left0002" x="1638" y="3524" width="546" height="704"/>
+	<SubTexture name="clean left0003" x="2184" y="3524" width="546" height="704"/>
+	<SubTexture name="clean left0004" x="2730" y="3524" width="546" height="704"/>
+	<SubTexture name="clean left0005" x="3276" y="3524" width="546" height="704"/>
+	<SubTexture name="clean right0000" x="0" y="4228" width="558" height="705" frameX="0" frameY="0" frameWidth="566" frameHeight="705"/>
+	<SubTexture name="clean right0001" x="558" y="4228" width="558" height="705" frameX="0" frameY="0" frameWidth="566" frameHeight="705"/>
+	<SubTexture name="clean right0002" x="1116" y="4228" width="546" height="705" frameX="0" frameY="0" frameWidth="566" frameHeight="705"/>
+	<SubTexture name="clean right0003" x="1662" y="4228" width="548" height="705" frameX="0" frameY="0" frameWidth="566" frameHeight="705"/>
+	<SubTexture name="clean right0004" x="2210" y="4228" width="558" height="705" frameX="0" frameY="0" frameWidth="566" frameHeight="705"/>
+	<SubTexture name="clean right0005" x="2768" y="4228" width="560" height="705" frameX="0" frameY="0" frameWidth="566" frameHeight="705"/>
+	<SubTexture name="clean right0006" x="3328" y="4228" width="566" height="705"/>
+	<SubTexture name="clean up0000" x="0" y="4933" width="546" height="704"/>
+	<SubTexture name="clean up0001" x="546" y="4933" width="546" height="704"/>
+	<SubTexture name="clean up0002" x="1092" y="4933" width="546" height="704"/>
+	<SubTexture name="clean up0003" x="1638" y="4933" width="546" height="704"/>
+	<SubTexture name="clean up0004" x="2184" y="4933" width="546" height="704"/>
+	<SubTexture name="clean up0005" x="2730" y="4933" width="546" height="704"/>
+</TextureAtlas>

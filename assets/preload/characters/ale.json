@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ale right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ale up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ale down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ale idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ale left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ale miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "ale miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "ale miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "ale miss left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ALE",
+	"position": [
+		40,
+		260
+	],
+	"healthicon": "ale",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		113,
+		253
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

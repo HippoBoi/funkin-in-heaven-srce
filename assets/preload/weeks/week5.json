@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"rhay",
+			"dad",
+			[
+				0,
+				220,
+				140
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "heaven1",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "amog",
+	"weekName": "lihtronx",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week4",
+	"startUnlocked": true
+}

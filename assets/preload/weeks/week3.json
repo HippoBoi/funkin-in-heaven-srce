@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["pelea-del-siglo", "dad", [122, 150, 90]],
+		["lucho", "dad", [122, 150, 90]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "heaven3",
+
+	"storyName": "im done",
+	"weekBefore": "week2",
+	"weekName": "week3",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

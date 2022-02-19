@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["the-end", "dad", [122, 150, 90]]
+	],
+	
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "heaven3",
+
+	"storyName": "the end",
+	"weekBefore": "week3",
+	"weekName": "week4",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

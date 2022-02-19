@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_heaven2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cabros0000" x="0" y="0" width="1280" height="394" frameX="0" frameY="0" frameWidth="1280" frameHeight="397"/>
+	<SubTexture name="cabros0001" x="0" y="394" width="1280" height="396" frameX="0" frameY="0" frameWidth="1280" frameHeight="397"/>
+	<SubTexture name="cabros0002" x="0" y="790" width="1280" height="397"/>
+	<SubTexture name="cabros0003" x="0" y="1187" width="1280" height="397"/>
+	<SubTexture name="cabros0004" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0005" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0006" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0007" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0008" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0009" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0010" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0011" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0012" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0013" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0014" x="0" y="1584" width="1280" height="397"/>
+	<SubTexture name="cabros0015" x="0" y="1584" width="1280" height="397"/>
+</TextureAtlas>

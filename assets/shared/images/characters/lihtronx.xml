@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lihtronx.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lihtronx idle0000" x="0" y="0" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0001" x="0" y="0" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0002" x="523" y="0" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0003" x="1046" y="0" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0004" x="0" y="438" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0005" x="523" y="438" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0006" x="1046" y="438" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0007" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0008" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0009" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0010" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0011" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0012" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx idle0013" x="0" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx left0000" x="523" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx left0001" x="523" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx left0002" x="1046" y="876" width="523" height="438"/>
+	<SubTexture name="lihtronx left0003" x="0" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0004" x="523" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0005" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0006" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0007" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0008" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0009" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0010" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0011" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0012" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx left0013" x="1046" y="1314" width="523" height="438"/>
+	<SubTexture name="lihtronx right0000" x="0" y="1752" width="523" height="438"/>
+	<SubTexture name="lihtronx right0001" x="0" y="1752" width="523" height="438"/>
+	<SubTexture name="lihtronx right0002" x="523" y="1752" width="523" height="438"/>
+	<SubTexture name="lihtronx right0003" x="1046" y="1752" width="523" height="438"/>
+	<SubTexture name="lihtronx right0004" x="0" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0005" x="523" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0006" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0007" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0008" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0009" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0010" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0011" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0012" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx right0013" x="1046" y="2190" width="523" height="438"/>
+	<SubTexture name="lihtronx up0000" x="0" y="2628" width="523" height="438"/>
+	<SubTexture name="lihtronx up0001" x="0" y="2628" width="523" height="438"/>
+	<SubTexture name="lihtronx up0002" x="523" y="2628" width="523" height="438"/>
+	<SubTexture name="lihtronx up0003" x="1046" y="2628" width="523" height="438"/>
+	<SubTexture name="lihtronx up0004" x="0" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0005" x="523" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0006" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0007" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0008" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0009" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0010" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0011" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0012" x="1046" y="3066" width="523" height="438"/>
+	<SubTexture name="lihtronx up0013" x="1046" y="3066" width="523" height="438"/>
+</TextureAtlas>

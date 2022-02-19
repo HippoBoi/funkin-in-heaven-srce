@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ALE.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ale down0000" x="489" y="846" width="489" height="423"/>
+	<SubTexture name="ale down0001" x="489" y="846" width="489" height="423"/>
+	<SubTexture name="ale down0002" x="0" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0003" x="489" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0004" x="978" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0005" x="1467" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0006" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0007" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0008" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0009" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0010" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0011" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0012" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0013" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale down0014" x="1956" y="0" width="489" height="423"/>
+	<SubTexture name="ale idle0000" x="2445" y="0" width="489" height="423"/>
+	<SubTexture name="ale idle0001" x="2445" y="0" width="489" height="423"/>
+	<SubTexture name="ale idle0002" x="2934" y="0" width="489" height="423"/>
+	<SubTexture name="ale idle0003" x="3423" y="0" width="489" height="423"/>
+	<SubTexture name="ale idle0004" x="0" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0005" x="489" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0006" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0007" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0008" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0009" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0010" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0011" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0012" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0013" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale idle0014" x="978" y="423" width="489" height="423"/>
+	<SubTexture name="ale left0000" x="1467" y="423" width="489" height="423"/>
+	<SubTexture name="ale left0001" x="1956" y="423" width="489" height="423"/>
+	<SubTexture name="ale left0002" x="2445" y="423" width="489" height="423"/>
+	<SubTexture name="ale left0003" x="2934" y="423" width="489" height="423"/>
+	<SubTexture name="ale left0004" x="3423" y="423" width="489" height="423"/>
+	<SubTexture name="ale left0005" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0006" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0007" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0008" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0009" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0010" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0011" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0012" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0013" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale left0014" x="0" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0000" x="489" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0001" x="978" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0002" x="1467" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0003" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0004" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0005" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0006" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0007" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0008" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0009" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0010" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0011" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0012" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0013" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss down0014" x="1956" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0000" x="1467" y="423" width="489" height="423"/>
+	<SubTexture name="ale miss left0001" x="2445" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0002" x="2934" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0003" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0004" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0005" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0006" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0007" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0008" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0009" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0010" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0011" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0012" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0013" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss left0014" x="3423" y="846" width="489" height="423"/>
+	<SubTexture name="ale miss right0000" x="0" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0001" x="489" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0002" x="978" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0003" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0004" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0005" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0006" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0007" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0008" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0009" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0010" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0011" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0012" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0013" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0014" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0015" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0016" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss right0017" x="1467" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss up0000" x="1956" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss up0001" x="2445" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss up0002" x="2934" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss up0003" x="3423" y="1269" width="489" height="423"/>
+	<SubTexture name="ale miss up0004" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0005" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0006" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0007" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0008" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0009" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0010" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0011" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0012" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0013" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0014" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0015" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0016" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale miss up0017" x="0" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0000" x="0" y="1269" width="489" height="423"/>
+	<SubTexture name="ale right0001" x="0" y="1269" width="489" height="423"/>
+	<SubTexture name="ale right0002" x="489" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0003" x="978" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0004" x="1467" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0005" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0006" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0007" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0008" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0009" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0010" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0011" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0012" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0013" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0014" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0015" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0016" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale right0017" x="1956" y="1692" width="489" height="423"/>
+	<SubTexture name="ale up0000" x="1956" y="1269" width="489" height="423"/>
+	<SubTexture name="ale up0001" x="1956" y="1269" width="489" height="423"/>
+	<SubTexture name="ale up0002" x="2445" y="1692" width="489" height="423"/>
+	<SubTexture name="ale up0003" x="2934" y="1692" width="489" height="423"/>
+	<SubTexture name="ale up0004" x="3423" y="1692" width="489" height="423"/>
+	<SubTexture name="ale up0005" x="3423" y="1692" width="489" height="423"/>
+	<SubTexture name="ale up0006" x="0" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0007" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0008" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0009" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0010" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0011" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0012" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0013" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0014" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0015" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0016" x="489" y="2115" width="489" height="423"/>
+	<SubTexture name="ale up0017" x="489" y="2115" width="489" height="423"/>
+</TextureAtlas>

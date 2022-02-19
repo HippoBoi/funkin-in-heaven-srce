@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lucho left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lucho up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lucho down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lucho idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lucho right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LUCHOGIGANTE",
+	"position": [
+		40,
+		500
+	],
+	"healthicon": "lucho",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		113,
+		253
+	],
+	"camera_position": [
+		-400,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LUCHOGIGANTE.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lucho down0000" x="0" y="0" width="887" height="686"/>
+	<SubTexture name="lucho down0001" x="887" y="0" width="887" height="686"/>
+	<SubTexture name="lucho down0002" x="1774" y="0" width="887" height="686"/>
+	<SubTexture name="lucho down0003" x="2661" y="0" width="887" height="686"/>
+	<SubTexture name="lucho down0004" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0005" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0006" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0007" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0008" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0009" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0010" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0011" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0012" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0013" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho down0014" x="0" y="686" width="887" height="686"/>
+	<SubTexture name="lucho idle0000" x="887" y="686" width="887" height="686"/>
+	<SubTexture name="lucho idle0001" x="887" y="686" width="887" height="686"/>
+	<SubTexture name="lucho idle0002" x="1774" y="686" width="887" height="686"/>
+	<SubTexture name="lucho idle0003" x="2661" y="686" width="887" height="686"/>
+	<SubTexture name="lucho idle0004" x="0" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0005" x="887" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0006" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0007" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0008" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0009" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0010" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0011" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0012" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0013" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho idle0014" x="1774" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho left0000" x="2661" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho left0001" x="2661" y="1372" width="887" height="686"/>
+	<SubTexture name="lucho left0002" x="0" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0003" x="887" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0004" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0005" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0006" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0007" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0008" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0009" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0010" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0011" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0012" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0013" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho left0014" x="1774" y="2058" width="887" height="686"/>
+	<SubTexture name="lucho right0000" x="2661" y="2058" width="887" height="690"/>
+	<SubTexture name="lucho right0001" x="0" y="2748" width="887" height="690"/>
+	<SubTexture name="lucho right0002" x="887" y="2748" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0003" x="1774" y="2748" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0004" x="2661" y="2748" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0005" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0006" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0007" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0008" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0009" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0010" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0011" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0012" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0013" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho right0014" x="0" y="3438" width="887" height="686" frameX="0" frameY="0" frameWidth="887" frameHeight="690"/>
+	<SubTexture name="lucho up0000" x="887" y="3438" width="887" height="723"/>
+	<SubTexture name="lucho up0001" x="1774" y="3438" width="887" height="695" frameX="0" frameY="-28" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0002" x="2661" y="3438" width="887" height="696" frameX="0" frameY="-27" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0003" x="0" y="4161" width="887" height="701" frameX="0" frameY="-17" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0004" x="887" y="4161" width="887" height="704" frameX="0" frameY="-14" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0005" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0006" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0007" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0008" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0009" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0010" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0011" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0012" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0013" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+	<SubTexture name="lucho up0014" x="1774" y="4161" width="887" height="707" frameX="0" frameY="-11" frameWidth="887" frameHeight="723"/>
+</TextureAtlas>

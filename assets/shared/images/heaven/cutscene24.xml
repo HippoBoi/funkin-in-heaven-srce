@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cutscene24.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cutscene240000" x="0" y="0" width="1383" height="744" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240001" x="0" y="0" width="1383" height="744" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240002" x="1383" y="0" width="1383" height="740" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240003" x="0" y="744" width="1383" height="769"/>
+	<SubTexture name="cutscene240004" x="1383" y="744" width="1383" height="744" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240005" x="0" y="1513" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240006" x="0" y="1513" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240007" x="1383" y="1513" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240008" x="0" y="2255" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240009" x="0" y="2255" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240010" x="0" y="2255" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240011" x="1383" y="2255" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240012" x="0" y="2997" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240013" x="0" y="2997" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240014" x="1383" y="2997" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240015" x="1383" y="2997" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240016" x="0" y="3739" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240017" x="1383" y="3739" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240018" x="0" y="4481" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240019" x="1383" y="4481" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240020" x="0" y="5223" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240021" x="1383" y="5223" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240022" x="0" y="5965" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240023" x="0" y="5965" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240024" x="0" y="5965" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240025" x="0" y="5965" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+	<SubTexture name="cutscene240026" x="0" y="5965" width="1383" height="742" frameX="0" frameY="0" frameWidth="1383" frameHeight="769"/>
+</TextureAtlas>

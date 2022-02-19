@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cutscene22.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cutscene220000" x="0" y="0" width="1433" height="768" frameX="0" frameY="0" frameWidth="1433" frameHeight="793"/>
+	<SubTexture name="cutscene220001" x="0" y="768" width="1433" height="749" frameX="0" frameY="0" frameWidth="1433" frameHeight="793"/>
+	<SubTexture name="cutscene220002" x="0" y="1517" width="1433" height="771" frameX="0" frameY="0" frameWidth="1433" frameHeight="793"/>
+	<SubTexture name="cutscene220003" x="0" y="2288" width="1433" height="793"/>
+	<SubTexture name="cutscene220004" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220005" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220006" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220007" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220008" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220009" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220010" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220011" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220012" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220013" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220014" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220015" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220016" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220017" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220018" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220019" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220020" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220021" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220022" x="0" y="3081" width="1433" height="793"/>
+	<SubTexture name="cutscene220023" x="0" y="3081" width="1433" height="793"/>
+</TextureAtlas>

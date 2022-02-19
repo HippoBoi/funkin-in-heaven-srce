@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="riodasu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rio alt0000" x="0" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0001" x="523" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0002" x="1046" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0003" x="1569" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0004" x="2092" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0005" x="2615" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0006" x="3138" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0007" x="3138" y="0" width="523" height="593"/>
+	<SubTexture name="rio alt0008" x="0" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0009" x="0" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0010" x="0" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0011" x="0" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0012" x="0" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0013" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0014" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0015" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0016" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0017" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0018" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0019" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0020" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0021" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0022" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0023" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0024" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0025" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0026" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0027" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0028" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio alt0029" x="523" y="593" width="523" height="593"/>
+	<SubTexture name="rio down0000" x="1046" y="593" width="523" height="593"/>
+	<SubTexture name="rio down0001" x="1569" y="593" width="523" height="593"/>
+	<SubTexture name="rio down0002" x="2092" y="593" width="523" height="593"/>
+	<SubTexture name="rio down0003" x="2615" y="593" width="523" height="593"/>
+	<SubTexture name="rio down0004" x="3138" y="593" width="523" height="593"/>
+	<SubTexture name="rio idle0000" x="0" y="1186" width="523" height="593"/>
+	<SubTexture name="rio idle0001" x="0" y="1186" width="523" height="593"/>
+	<SubTexture name="rio idle0002" x="523" y="1186" width="523" height="593"/>
+	<SubTexture name="rio idle0003" x="1046" y="1186" width="523" height="593"/>
+	<SubTexture name="rio idle0004" x="1569" y="1186" width="523" height="593"/>
+	<SubTexture name="rio idle0005" x="2092" y="1186" width="523" height="593"/>
+	<SubTexture name="rio left0000" x="2615" y="1186" width="523" height="593"/>
+	<SubTexture name="rio left0001" x="3138" y="1186" width="523" height="593"/>
+	<SubTexture name="rio left0002" x="0" y="1779" width="523" height="593"/>
+	<SubTexture name="rio left0003" x="523" y="1779" width="523" height="593"/>
+	<SubTexture name="rio left0004" x="1046" y="1779" width="523" height="593"/>
+	<SubTexture name="rio left0005" x="1569" y="1779" width="523" height="593"/>
+	<SubTexture name="rio right0000" x="2092" y="1779" width="523" height="593"/>
+	<SubTexture name="rio right0001" x="2615" y="1779" width="523" height="593"/>
+	<SubTexture name="rio right0002" x="3138" y="1779" width="523" height="593"/>
+	<SubTexture name="rio right0003" x="0" y="2372" width="523" height="593"/>
+	<SubTexture name="rio right0004" x="523" y="2372" width="523" height="593"/>
+	<SubTexture name="rio right0005" x="523" y="2372" width="523" height="593"/>
+	<SubTexture name="rio right0006" x="523" y="2372" width="523" height="593"/>
+	<SubTexture name="rio right0007" x="523" y="2372" width="523" height="593"/>
+	<SubTexture name="rio right0008" x="523" y="2372" width="523" height="593"/>
+	<SubTexture name="rio right0009" x="523" y="2372" width="523" height="593"/>
+	<SubTexture name="rio up0000" x="1046" y="2372" width="274" height="480" frameX="0" frameY="-14" frameWidth="274" frameHeight="494"/>
+	<SubTexture name="rio up0001" x="1320" y="2372" width="274" height="483" frameX="0" frameY="-8" frameWidth="274" frameHeight="494"/>
+	<SubTexture name="rio up0002" x="1594" y="2372" width="274" height="485" frameX="0" frameY="-4" frameWidth="274" frameHeight="494"/>
+	<SubTexture name="rio up0003" x="1868" y="2372" width="274" height="487" frameX="0" frameY="0" frameWidth="274" frameHeight="494"/>
+	<SubTexture name="rio up0004" x="1868" y="2372" width="274" height="487" frameX="0" frameY="0" frameWidth="274" frameHeight="494"/>
+	<SubTexture name="rio up0005" x="2142" y="2372" width="274" height="487" frameX="0" frameY="0" frameWidth="274" frameHeight="494"/>
+</TextureAtlas>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cutscene32.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="text 10000" x="0" y="0" width="1284" height="733" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10001" x="1284" y="0" width="1287" height="733" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10002" x="2571" y="0" width="1287" height="733" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10003" x="3858" y="0" width="1290" height="736" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10004" x="5148" y="0" width="1290" height="736" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10005" x="6438" y="0" width="1292" height="738" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10006" x="0" y="738" width="1293" height="740" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10007" x="1293" y="738" width="1293" height="740" frameX="0" frameY="0" frameWidth="1295" frameHeight="741"/>
+	<SubTexture name="text 10008" x="2586" y="738" width="1295" height="741"/>
+	<SubTexture name="text 10009" x="3881" y="738" width="1295" height="741"/>
+	<SubTexture name="text 10010" x="5176" y="738" width="1295" height="741"/>
+	<SubTexture name="text 10011" x="6471" y="738" width="1295" height="741"/>
+	<SubTexture name="text 10012" x="0" y="1479" width="1295" height="741"/>
+	<SubTexture name="text 10013" x="1295" y="1479" width="1295" height="741"/>
+	<SubTexture name="text 10014" x="2590" y="1479" width="1295" height="741"/>
+	<SubTexture name="text 10015" x="3885" y="1479" width="1295" height="741"/>
+	<SubTexture name="text 10016" x="5180" y="1479" width="1295" height="741"/>
+	<SubTexture name="text 10017" x="6475" y="1479" width="1295" height="741"/>
+	<SubTexture name="text 10018" x="0" y="2220" width="1295" height="741"/>
+	<SubTexture name="text 10019" x="1295" y="2220" width="1295" height="741"/>
+	<SubTexture name="text 10020" x="2590" y="2220" width="1295" height="741"/>
+	<SubTexture name="text 10021" x="3885" y="2220" width="1295" height="741"/>
+	<SubTexture name="text 10022" x="5180" y="2220" width="1295" height="741"/>
+	<SubTexture name="text 10023" x="6475" y="2220" width="1295" height="741"/>
+	<SubTexture name="text 10024" x="0" y="2961" width="1295" height="741"/>
+	<SubTexture name="text 10025" x="1295" y="2961" width="1295" height="741"/>
+	<SubTexture name="text 10026" x="2590" y="2961" width="1295" height="741"/>
+	<SubTexture name="text 10027" x="3885" y="2961" width="1295" height="741"/>
+	<SubTexture name="text 10028" x="5180" y="2961" width="1295" height="741"/>
+	<SubTexture name="text 10029" x="6475" y="2961" width="1295" height="741"/>
+	<SubTexture name="text 10030" x="0" y="3702" width="1295" height="741"/>
+	<SubTexture name="text 10031" x="1295" y="3702" width="1295" height="741"/>
+	<SubTexture name="text 10032" x="2590" y="3702" width="1295" height="741"/>
+	<SubTexture name="text 10033" x="3885" y="3702" width="1295" height="741"/>
+	<SubTexture name="text 10034" x="5180" y="3702" width="1295" height="741"/>
+	<SubTexture name="text 10035" x="6475" y="3702" width="1295" height="741"/>
+	<SubTexture name="text 10036" x="0" y="4443" width="1295" height="741"/>
+	<SubTexture name="text 10037" x="1295" y="4443" width="1295" height="741"/>
+	<SubTexture name="text 10038" x="2590" y="4443" width="1295" height="741"/>
+	<SubTexture name="text 10039" x="3885" y="4443" width="1295" height="741"/>
+	<SubTexture name="text 10040" x="5180" y="4443" width="1295" height="741"/>
+	<SubTexture name="text 10041" x="6475" y="4443" width="1295" height="741"/>
+	<SubTexture name="text 10042" x="0" y="5184" width="1295" height="741"/>
+	<SubTexture name="text 10043" x="1295" y="5184" width="1295" height="741"/>
+	<SubTexture name="text 10044" x="2590" y="5184" width="1295" height="741"/>
+	<SubTexture name="text 10045" x="3885" y="5184" width="1295" height="741"/>
+	<SubTexture name="text 10046" x="5180" y="5184" width="1295" height="741"/>
+	<SubTexture name="text 10047" x="6475" y="5184" width="1295" height="741"/>
+	<SubTexture name="text 10048" x="0" y="5925" width="1295" height="741"/>
+	<SubTexture name="text 10049" x="1295" y="5925" width="1295" height="741"/>
+	<SubTexture name="text 10050" x="2590" y="5925" width="1295" height="741"/>
+	<SubTexture name="text 10051" x="3885" y="5925" width="1295" height="741"/>
+	<SubTexture name="text 10052" x="5180" y="5925" width="1295" height="741"/>
+	<SubTexture name="text 10053" x="6475" y="5925" width="1295" height="741"/>
+	<SubTexture name="text 10054" x="0" y="6666" width="1295" height="741"/>
+	<SubTexture name="text 10055" x="1295" y="6666" width="1295" height="741"/>
+	<SubTexture name="text 10056" x="2590" y="6666" width="1295" height="741"/>
+	<SubTexture name="text 10057" x="3885" y="6666" width="1295" height="741"/>
+	<SubTexture name="text 10058" x="5180" y="6666" width="1295" height="741"/>
+	<SubTexture name="text 10059" x="6475" y="6666" width="1295" height="741"/>
+	<SubTexture name="text 10060" x="0" y="7407" width="1295" height="741"/>
+	<SubTexture name="text 10061" x="1295" y="7407" width="1295" height="741"/>
+	<SubTexture name="text 10062" x="2590" y="7407" width="1295" height="741"/>
+	<SubTexture name="text 10063" x="3885" y="7407" width="1295" height="741"/>
+	<SubTexture name="text 10064" x="5180" y="7407" width="1295" height="741"/>
+	<SubTexture name="text 10065" x="6475" y="7407" width="1295" height="741"/>
+</TextureAtlas>
